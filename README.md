@@ -7,7 +7,7 @@ Sophomore student at a Computer Science Faculty in Turkey 🇹🇷
 
 <br/><br/><br/>
 [![](https://github-readme-stats.vercel.app/api?username=theEMA-dev&show_icons=true&theme=transparent&text_color=e6edf3&border_color=6cd064&title_color=6cd064&icon_color=6cd064#gh-dark-mode-only)](https://github.com/theEMA-dev#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=theEMA-dev&show_icons=true&theme=transparent&text_color=1f2328&border_color=549f57&title_color=549f57&icon_color=549f57#gh-light-mode-only)](https://github.com/theEMA-dev#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=theEMA-dev&show_icons=true&theme=transparent&text_color=1f2328&border_color=549f57&title_color=549f57&icon_color=549f57#gh-light-mode-only)](https://github.com/theEMA-dev#gh-light-mode-only)‎ ‎ ‎ ‎ ‎ ‎ 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEMA-dev&theme=transparent&text_color=e6edf3&border_color=6cd064&title_color=6cd064&layout=compact#gh-dark-mode-only)](https://github.com/theEMA-dev#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEMA-dev&theme=transparent&text_color=1f2328&border_color=549f57&title_color=549f57&layout=compact#gh-light-mode-only)](https://github.com/theEMA-dev#gh-light-mode-only)
 
