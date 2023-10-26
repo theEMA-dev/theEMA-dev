@@ -1,4 +1,4 @@
-### Hi there 👋, im Emir
+## Hi there 👋, im Emir
 Sophomore student at a Computer Science Faculty in Turkey 🇹🇷
 
 🎯 Check out my website : [**emirkaynar.com**](https://emirkaynar.com)
